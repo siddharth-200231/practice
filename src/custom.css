@@ -1,0 +1,23 @@
+/* custom.css */
+@media (max-width: 250px) {
+    .phone-card {
+      max-width: 100% !important;
+    }
+    .phone-img {
+      height: 120px !important; /* Adjust height for very small screens */
+    }
+    .phone-title {
+      font-size: 0.75rem !important; /* Adjust font size for very small screens */
+    }
+    .phone-price {
+      font-size: 0.625rem !important; /* Adjust font size for very small screens */
+    }
+    .phone-description {
+      font-size: 0.625rem !important; /* Adjust font size for very small screens */
+    }
+    .phone-button {
+      padding: 0.25rem 0.5rem !important; /* Adjust padding for very small screens */
+      font-size: 0.75rem !important; /* Adjust font size for very small screens */
+    }
+  }
+  
