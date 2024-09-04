@@ -3,7 +3,7 @@ import React from 'react';
 function Mobile() {
   return (
     <nav className="bg-zinc-600 text-white shadow-lg">
-      <div className="container mx-auto flex items-center justify-between p-4 lg:px-8">
+      <div className="container mx-auto flex items-center justify-between p-4 lg:px-4">
         <div className="flex items-center space-x-4">
           <a href="#home" className="text-2xl font-bold hover:text-yellow-500 transition-colors duration-300">TechStore</a>
         </div>
